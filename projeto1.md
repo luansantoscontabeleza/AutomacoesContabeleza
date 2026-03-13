@@ -282,12 +282,6 @@ Se esse modelo evoluir corretamente, o Key poderá se tornar:
 
 ```
 ERP interno da Contabeleza
-
-ou
-
-Plataforma de automação contábil
-```
-
 ---
 
 # 🚀 Conclusão
