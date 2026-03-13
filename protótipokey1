@@ -1,0 +1,25 @@
+Digisac
+   ↓
+Atendente recebe solicitação
+   ↓
+Atendente acessa Key Contabeleza
+   ↓
+Seleciona ação
+
+• Emitir DAS
+• Emitir Nota
+• Parcelar Débitos
+• Criar senha NFS-e
+• Entregar DASN
+• Gerar contrato
+
+   ↓
+Key dispara automação
+   ↓
+n8n / Script / API / RPA
+   ↓
+Executa processo
+   ↓
+Resultado retorna ao Key
+   ↓
+Atendente envia ao cliente
