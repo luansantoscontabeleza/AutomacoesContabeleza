@@ -55,7 +55,8 @@ Responsáveis por:
 * usar o Key como ferramenta principal
 
 ```
-Contadoras
+Sheila
+Hellen
 (Atendimento MEI)
 ```
 
